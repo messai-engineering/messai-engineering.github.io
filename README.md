@@ -1,12 +1,12 @@
 ## Welcome to MessAI Engineering Github
 
-[**MessAI**](https://messai.in) was founded to revlotionize the way people Profile their Customers by leveraing cutting edge deep learning algorithms coupled with intelligent Alternate Data Harvesting methods.
+[**MessAI**](https://messai.in) was founded to revolutionize the way people Profile their Customers by leveraging cutting edge deep learning algorithms coupled with intelligent Alternate Data Harvesting methods.
 
 MessAI Engineering aims at creating tools and software which enable enterprises to extract and transform data about their customers and infer behavioural traits about them. We have our humble beginnings in building a patented meta-data driven text-parser named Malana. Later on the ecosystem grew to include an analytics engine based on top of [Metabase](https://metabase.com), a hosted machine learning system named [Arachea](https://github.com/archaea-solutions/archaea), an intelligent date parser based on FSAs called [Yuga](https://github.com/messai-engineering/Yuga) and an android based offline inference system using [TFLite](https://github.com/tensorflow/tensorflow).
 
 User Privacy has always been the cornerstone of what we did and what we continue to do. Traditional Customer Profiling systems focus on taking customer data to the servers, storing and processing it on the cloud, thus violating their End Users Privacy and raking in significant server costs. Our current ecosystem enables an Enterprise to profile their customers completely in the edge, ensuring that all data stays in the customer device itself and the whole processing is offloaded to the edge.
 
-Thus our **MessAI Suite** allows Enterprises to build a privacy-aware, intelligent, distributed and extensible Custoemer Profiling pipeline.
+Thus our **MessAI Suite** allows Enterprises to build a privacy-aware, intelligent, distributed and extensible Customer Profiling pipeline.
 
 Our journey has always been dependent on Open Source tech and if not for them, we would've never been able to accomplish what we have done.
 
