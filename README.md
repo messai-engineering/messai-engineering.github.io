@@ -16,10 +16,10 @@ Our journey has always been dependent on Open Source tech and if not for them, w
 - [Yuga](https://github.com/messai-engineering/Yuga)
 	- 
 	Yuga is an intelligent Date Parser.Parses text for any date format and returns the date object. No need to know format type. Returns a date object for  a string containing a date in any arbitrary format
-- [Arachea](https://github.com/archaea-solutions/archaea)
+- [Arachea](https://github.com/messai-engineering/archaea)
 	- 
 	Data analysis through machine learning on cloud. Arachea is a PaaS for Machine Learning. The idea is to have ML as a service and any application developer to bring up API's to use them to train and build their own neural networks and other machine learning tools.
-- [Metabase Fork](https://github.com/metabase/metabase)
+- [Metabase Fork](https://github.com/messai-engineering/archaea)
 	- 
 	Metabase is at the core of our analytics systems. We have built an extensive set of queries to be run on the meta-data that we have extracted to make analysts life easier.
 
