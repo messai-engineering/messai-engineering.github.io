@@ -13,38 +13,17 @@ Our journey has always been dependent on Open Source tech and if not for them, w
 [MessAI engineering](https://github.com/messai-engineering) is just a humble attempt to give something back to the community and share the ❤️.
 
 
-You can use the [editor on GitHub](https://github.com/messai-engineering/messai-engineering.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/messai-engineering/messai-engineering.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Repositories
+- [Yuga](https://github.com/messai-engineering/Yuga)
+	-
+	Yuga is an intelligent Date Parser.Parses text for any date format and returns the date object. No need to know format type. Returns a date object for  a string containing a date in any arbitrary format
+- [Arachea](https://github.com/archaea-solutions/archaea)
+	- 
+	Data analysis through machine learning on cloud. Arachea is a PaaS for Machine Learning. The idea is to have ML as a service and any application developer to bring up API's to use them to train and build their own neural networks and other machine learning tools.
+- [Metabase Fork](https://github.com/metabase/metabase)
+	- 
+	Metabase is at the core of our analytics systems. We have built an extensive set of queries to be run on the meta-data that we have extracted to make analysts life easier.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more details you can always take a look at our [website](https://messai.in) or you can shoot us a [mail](mail-to:glen@messai.in) . Always happy to help!
