@@ -10,7 +10,7 @@ Thus our **MessAI Suite** allows Enterprises to build a privacy-aware, intellige
 
 Our journey has always been dependent on Open Source tech and if not for them, we would've never been able to accomplish what we have done.
 
-[MessAI engineering] is just a humble attempt to give something back to the community and share the ❤️.
+[MessAI engineering](https://github.com/messai-engineering) is just a humble attempt to give something back to the community and share the ❤️.
 
 
 You can use the [editor on GitHub](https://github.com/messai-engineering/messai-engineering.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
