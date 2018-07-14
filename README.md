@@ -12,10 +12,9 @@ Our journey has always been dependent on Open Source tech and if not for them, w
 
 [MessAI engineering](https://github.com/messai-engineering) is just a humble attempt to give something back to the community and share the ❤️.
 
-
 ### Repositories
 - [Yuga](https://github.com/messai-engineering/Yuga)
-	-
+	- 
 	Yuga is an intelligent Date Parser.Parses text for any date format and returns the date object. No need to know format type. Returns a date object for  a string containing a date in any arbitrary format
 - [Arachea](https://github.com/archaea-solutions/archaea)
 	- 
